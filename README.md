@@ -34,7 +34,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The technology and the languages were new. However, very interesting and I Would love to be part of this course!
 
 ## License
 
