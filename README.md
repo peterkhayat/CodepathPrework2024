@@ -4,7 +4,7 @@ Submitted by: **Peter Khayat**
 
 **Prework** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: **7** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
